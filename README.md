@@ -20,6 +20,10 @@ Suggested:
 
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
+What I did:
+
+https://medium.com/@isaacng/mathematics-for-machine-learning-multivariate-calculus-7102c7a586c6
+
 ### Week 3 Probability
 Suggested:
 
