@@ -29,6 +29,10 @@ Suggested:
 
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 
+What I Did:
+
+https://brilliant.org/courses/probability/
+
 ### Week 4 Algorithms
 Suggested:
 
