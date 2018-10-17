@@ -2,14 +2,18 @@
 Learning AI with ||Source||'s Learn Machine Learning In 3 Months
 
 ## Month 1
-Week 1 Linear Algebra
+### Week 1 Linear Algebra
+Suggested:
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+What I did:
+https://brilliant.org/courses/linear-algebra/
+https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23
 
-Week 2 Calculus
+### Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
-Week 3 Probability
+### Week 3 Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 
-Week 4 Algorithms
+### Week 4 Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
