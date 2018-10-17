@@ -33,6 +33,8 @@ What I Did:
 
 https://brilliant.org/courses/probability/
 
+https://towardsdatascience.com/probability-for-data-science-9770b26643d0
+
 ### Week 4 Algorithms
 Suggested:
 
