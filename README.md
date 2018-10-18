@@ -2,7 +2,7 @@
 Learning AI with ||Source||'s Learn Machine Learning In 3 Months
 
 ## Month 1
-### Week 1 Linear Algebra
+### Week 1 Linear Algebra ✅
 Suggested:
 
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -15,7 +15,7 @@ https://brilliant.org/courses/linear-algebra/
 
 https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23
 
-### Week 2 Calculus
+### Week 2 Calculus ✅
 Suggested:
 
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
@@ -24,7 +24,7 @@ What I did:
 
 https://medium.com/@isaacng/mathematics-for-machine-learning-multivariate-calculus-7102c7a586c6
 
-### Week 3 Probability
+### Week 3 Probability ✅
 Suggested:
 
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
@@ -35,7 +35,7 @@ https://brilliant.org/courses/probability/
 
 https://towardsdatascience.com/probability-for-data-science-9770b26643d0
 
-### Week 4 Algorithms
+### Week 4 Algorithms ✅
 Suggested:
 
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
@@ -49,7 +49,7 @@ https://brilliant.org/courses/computer-science-algorithms
 
 ## Month 2
 ### Week 1
-#### Learn python for data science
+#### Learn python for data science ✅
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
 
 #### Math of Intelligence
