@@ -48,6 +48,8 @@ https://brilliant.org/courses/computer-science-algorithms
 
 
 ## Month 2
+https://colab.research.google.com/drive/1hACPcfLIpSvI305VaarcoxCCmEX5Hpvm
+
 ### Week 1
 #### Learn python for data science ✅
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
