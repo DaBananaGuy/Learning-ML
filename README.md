@@ -39,3 +39,7 @@ https://towardsdatascience.com/probability-for-data-science-9770b26643d0
 Suggested:
 
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
+
+What I Did:
+
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
