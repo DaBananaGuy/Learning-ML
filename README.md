@@ -43,3 +43,5 @@ https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 What I Did:
 
 https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+
+https://brilliant.org/courses/computer-science-algorithms
