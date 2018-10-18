@@ -47,19 +47,19 @@ https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learn
 https://brilliant.org/courses/computer-science-algorithms
 
 
-# Month 2
-## Week 1
-### Learn python for data science
+## Month 2
+### Week 1
+#### Learn python for data science
 https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
 
-### Math of Intelligence
+#### Math of Intelligence
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
 
-### Intro to Tensorflow
+#### Intro to Tensorflow
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 
-## Week 2
+### Week 2
 Intro to ML (Udacity) https://eu.udacity.com/course/intro-to-machine-learning--ud120
 
-## Week 3-4
+### Week 3-4
 ML Project Ideas https://github.com/NirantK/awesome-project-ideas
