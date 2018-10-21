@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_
 #### Intro to Tensorflow
 https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
 
-### Week 2
+### Week 2 ✅
 Intro to ML (Udacity) https://eu.udacity.com/course/intro-to-machine-learning--ud120
 
 ### Week 3-4
