@@ -65,3 +65,4 @@ Intro to ML (Udacity) https://eu.udacity.com/course/intro-to-machine-learning--u
 
 ### Week 3-4
 ML Project Ideas https://github.com/NirantK/awesome-project-ideas
+(See my repositories)
