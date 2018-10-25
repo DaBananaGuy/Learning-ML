@@ -66,3 +66,13 @@ Intro to ML (Udacity) https://eu.udacity.com/course/intro-to-machine-learning--u
 ### Week 3-4 ✅
 ML Project Ideas https://github.com/NirantK/awesome-project-ideas
 (See my repositories)
+
+## Month 3 (Deep Learning)
+### Week 1
+Intro to Deep Learning https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
+
+### Week 2
+Deep Learning by Fast.AI http://course.fast.ai/
+
+### Week 3-4
+Re-implement DL projects from my github https://github.com/llSourcell?tab=repositories
